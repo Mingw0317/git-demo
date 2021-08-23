@@ -1,4 +1,4 @@
 # git-demo
-00example. The learnning-Git demo. 
+The learnning-Git demo. ooexample. 
 
 This is a Git-learnning branch. 
